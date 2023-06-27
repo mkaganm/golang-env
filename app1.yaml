@@ -1,0 +1,4 @@
+SERVER_ADDRESS: "0.0.0.0:8080"
+SECRET_KEY: "secret"
+DB_DRIVER: "postgres"
+DB_SOURCE: "postgres://username:password@localhost/dbname?sslmode=disable"
